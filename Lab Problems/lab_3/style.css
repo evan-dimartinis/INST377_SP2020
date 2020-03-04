@@ -50,10 +50,11 @@ p, li {
 
 /* || header layout */
 
-header {
+.header {
   margin-bottom: 10px;
   display: flex;
   flex-flow: row wrap;
+  float: left;
 }
 
 body > * {
